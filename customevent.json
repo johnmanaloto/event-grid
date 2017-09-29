@@ -1,0 +1,13 @@
+[
+  {
+    "id": "1908",
+    "eventType": "recordUpdated",
+    "subject": "myapp/vehicles/motorcycles",
+    "eventTime": "2017-08-11T21:03:07+00:00",
+    "data": {
+      "make": "BMW",
+      "model": "Velociraptor"
+    },
+    "topic": "/subscriptions/{subscription-id}/resourceGroups/{resource-group}/providers/Microsoft.EventGrid/topics/{topic}"
+  }
+]
